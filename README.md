@@ -6,7 +6,7 @@
 - Validar la versión de jdk de java
 - En este proyecto se trabajará con el patrón Page Object Model (POM)
 - Se compondrían con el features donde ubicaremos el gherkin, el steps donde definiremos la funciones 
-  que llamaran a las acciones de los stepsdefinitions y en modo no apoyamos con el paquete de page 
+  que llamaran a las acciones de los stepsdefinitions y en la automatización web nos apoyamos con el paquete de page 
   donde iran los xpath o los id respectivos de la página para poder realizar la automatización
 - teniendo todos estos puntos usaremos el runner para ejecutar la prueba
 
