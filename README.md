@@ -25,11 +25,11 @@ La automatización consistirá en:
 ![Texto alternativo](src/test/resources/images/gherkin.png)
 
 *Ejecución de Runner*
-![Texto alternativo](src/test/resources/images/Ejecutando Runner.png)
+![Texto alternativo](src/test/resources/images/Ejecutando_Runner.png)
 
 
 *Ejecutando la interfaz de prueba:*
-![Texto alternativo](src/test/resources/images/gherkin.png)
+![Texto alternativo](src/test/resources/images/Ejecutando_prueba-Ingresar_página_Juntoz.jpg)
 
 -------------------
 #### *Realizado por: Jorge Luis Monzón Morales*
